@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Enemy
+  - SpawnPoint
+  - Enemy Bullet
+  - Ammo
+  - Energy Drink
+  - Boundary
+  - Spike
+  - Weapon Collector
+  - RocketMissile
+  - Mana Upgrade
+  - Heart Upgrade
+  - Health Upgrade
+  - Enemy Spawner
+  - Melee Enemy
+  - Ranged Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Floor
+  - Enemy
+  - Post Processing
+  - Supplies
+  - Bullet
+  - Enemy Bullet
+  - Cannot Shoot
+  - Ability
+  - Confiner
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemy Spawner
+    uniqueID: 3904067905
+    locked: 0
+  - name: 'UI '
+    uniqueID: 2247540749
+    locked: 0

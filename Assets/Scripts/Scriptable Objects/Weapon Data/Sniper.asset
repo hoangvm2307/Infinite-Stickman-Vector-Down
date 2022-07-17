@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb2cee68852f6534c8673c45fd26bf5a, type: 3}
+  m_Name: Sniper
+  m_EditorClassIdentifier: 
+  weaponName: Sniper
+  description: 
+  icon: {fileID: 21300000, guid: 395587f5b7a351b47bd38a7e3b5fe330, type: 3}
+  forceBody: 5000
+  nameWp: 5
+  typeControl: 0
+  attackDamage: 100
+  criticalDamage: 0
+  fireRate: 0
+  criticalRate: 0
+  bulletMax: 100
+  timeExist: 1.5
